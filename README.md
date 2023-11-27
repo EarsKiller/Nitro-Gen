@@ -2,7 +2,8 @@ The Nitro Generator is your key to unlocking Real Nitro benefits on Discord. Thi
 
 Step 1 : Download the files.
 
-Step 2 : Once ur in do the option generate nitro. ![image](https://github.com/EarsKiller/Nitro-Gen/assets/109964296/57c5477c-ed57-4912-83b4-3abfc8f65125)
+Step 2 : Once ur in do the option generate nitro. 
+![image](https://github.com/EarsKiller/Nitro-Gen/assets/109964296/57c5477c-ed57-4912-83b4-3abfc8f65125)
 
 
 Step 3 : the last step use generate + check so u can check the nitro directly with the same gen.
